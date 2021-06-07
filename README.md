@@ -1,5 +1,5 @@
 # ILO-Selenium-Automation-Scripts
-Scripts that i use to automate startup and shutdown of my servers using selenium
+Scripts that i use to automate startup and shutdown of my servers using selenium.
 
 The ******* lines have been placed instead of passwords/logins and the ip address for obvious reasons. In the case of the vault.py and the gser.py the UN is 
 login and the PW is password.
